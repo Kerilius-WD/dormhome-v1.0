@@ -1,2 +1,2 @@
 # dormhome-v1.0
-Android Studio with Firebase Integration
+Android Studio Appliction with Firebase Integrations
